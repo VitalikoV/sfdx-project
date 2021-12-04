@@ -28,6 +28,8 @@ node_modules/
 .eslintcache
 
 # MacOS system files
+.sfdx
+.vscode
 .DS_Store
 
 # Windows system files
